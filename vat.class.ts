@@ -22,6 +22,7 @@ export class Vat {
   ) {}
 }
 
+//test
 export class ExcludeVat extends Vat {
   _price?: number;
   priceVat?: number;

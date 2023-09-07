@@ -15,6 +15,7 @@
 //ราคาสินค้า  =
 //ค่าภ่าษี 7% จาก ราคาสินค้า =
 
+//.1111
 export class Vat {
   constructor(
     protected readonly price: number,
